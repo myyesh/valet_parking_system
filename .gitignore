@@ -1,0 +1,20 @@
+# Ignore IDE settings
+/.classpath
+/.project
+/.settings/
+/.idea/
+/*.iml
+
+# Ignore build folders
+/bin/
+/build/
+
+# Ignore system files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Java files
+*.class
