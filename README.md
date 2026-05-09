@@ -1,8 +1,9 @@
-🚗 Valet Parking Management System
+Valet Parking Management System
 A simple Java-based console application that simulates a valet parking service.
 It allows users to park cars and bikes, generate valet tickets, retrieve vehicles, and receive alerts.
 
-✨ Features
+
+Features
 Create valet tickets for cars and bikes
 
 Simulate vehicle parking and retrieval
@@ -15,14 +16,15 @@ Clean and modular Object-Oriented Design (OOP)
 
 Designed for real-world applications (airports, malls, outlets)
 
-🛠️ Built With
+
+Built With
 Java 17+ (JDK)
 
 Eclipse IDE (or any Java IDE)
 
 Git and GitHub for version control
 
-📂 Project Structure
+Project Structure
 css
 Copy
 Edit
@@ -41,7 +43,9 @@ ValetParkingSystem/
 │
 ├── README.md
 └── (JRE System Library)
-🚀 How to Run the Project
+
+
+How to Run the Project
 Clone or download this repository
 
 Open it in your Java IDE (Eclipse / IntelliJ / VS Code)
@@ -50,26 +54,27 @@ Ensure JDK 17+ is installed
 
 Run Main.java
 
-📸 Sample Output
+
+Sample Output
 bash
 Copy
 Edit
 --- Welcome to the Valet Parking System ---
 
-✅ Your ticket for Toyota has been created. It is parked at spot #38.
+Your ticket for Toyota has been created. It is parked at spot #38.
 [ALERT]: Your Toyota has been parked.
 
-✅ Your ticket for Harley has been created. It is parked at spot #35.
+Your ticket for Harley has been created. It is parked at spot #35.
 [ALERT]: Your Harley has been parked.
 
 [ALERT]: Valet is retrieving your vehicle.
 ETA: Please wait approximately 2 minutes at the valet counter.
 
-🚗 Retrieving vehicle with ticket: 1000
+Retrieving vehicle with ticket: 1000
 The car is unlocked.
 The car was turned on via the ignition key.
 Brand: Toyota | Year: 2023 | Fuel: 80.0%
-📚 Concepts Covered
+Concepts Covered
 Object-Oriented Programming (Inheritance, Encapsulation)
 
 Custom classes and interfaces
@@ -80,7 +85,8 @@ Simulated alerting system
 
 Git and GitHub fundamentals
 
-🧠 Future Improvements
+
+Future Improvements
 Add a database (MySQL or MongoDB) to store parking data
 
 Create a basic front-end web interface
